@@ -20,6 +20,16 @@
 
 这段内容用来记录我的博客，这个内容会比较广泛，可能是学习某些东西的简单总结，也可能是一切网上冲浪的“奇技淫巧”，如果对你有帮助，欢迎在我的wiki上标一个star~
 
+- [设置vsc支持连体字符](./methods/SetLigaturesForVSC.md)
+
+---
+
+## 文献笔记
+
+我的研究方向是弱监督语义分割，具体来说，我自己想要研究的是单阶段（端到端）的弱监督语义分割方法。下面是我读过的一部分文献：
+
+- [Depth is all you Need: single-stage WSSS from image-level supervision](./papers/depth_is_all_you_need.md)
+
 ---
 
 ## 照片（powered by Nikon Z50 II）
