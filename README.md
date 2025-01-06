@@ -16,11 +16,14 @@
 
 ---
 
-## 博客记录
+## 博客和笔记
 
 这段内容用来记录我的博客，这个内容会比较广泛，可能是学习某些东西的简单总结，也可能是一切网上冲浪的“奇技淫巧”，如果对你有帮助，欢迎在我的wiki上标一个star~
 
-- [设置vsc支持连体字符](./methods/SetLigaturesForVSC.md)
+> 这部分的内容主要分布在仓库的`blogs`和`notes`两个文件夹中，blogs用于记录我的输出（思考或者方法），notes用于记录我的输入（学习）。
+
+- [设置vsc支持连体字符](./blogs/SetLigaturesForVSC.md)
+- [C++学习笔记](./notes/cpp/idx_cpp.md)
 
 ---
 
