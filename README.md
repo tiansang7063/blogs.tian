@@ -24,6 +24,7 @@
 
 - [设置vsc支持连体字符](./blogs/SetLigaturesForVSC.md)
 - [C++学习笔记](./notes/cpp/idx_cpp.md)
+- [论如何在Gitee同步更新GitHub仓库](./blogs/sync_gits/stnc_gits.md)
 
 ---
 
@@ -41,3 +42,4 @@
 
 ## 建设中 Constructing
 
+---
