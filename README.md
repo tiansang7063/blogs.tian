@@ -38,6 +38,10 @@
 
 ## 照片（powered by Nikon Z50 II）
 
+我会分出一个小区域来记录我的拍照的历史，把一些学到的知识或者拍到的照片放在这里，做个留念。
+
+- [照片索引](./photography/idx_photography.md)
+
 ---
 
 ## 建设中 Constructing
