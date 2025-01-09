@@ -25,6 +25,7 @@
 - [设置vsc支持连体字符](./blogs/SetLigaturesForVSC.md)
 - [C++学习笔记](./notes/cpp/idx_cpp.md)
 - [论如何在Gitee同步更新GitHub仓库](./blogs/sync_gits/stnc_gits.md)
+- [Linux-screen基本用法和用途](./blogs/linux_screen_usage/linux_screen_usage.md)
 
 ---
 
